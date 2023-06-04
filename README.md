@@ -1,1 +1,2 @@
-Тестовое задание L0
+link to the project deployment
+https://cute-concha-1b4196.netlify.app
